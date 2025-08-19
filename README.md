@@ -1,5 +1,5 @@
-# Challenge---AmigoSecerto
-<h1 align="center"> É uma aplicação feita usando Java Scrpt, HTML e CSS que permite aos usuários inserirem nomes de amigos, em uma lista, para em seguida realizar um sorteio aleatório e determinar quem é o "amigo secreto".</h1>
+# Challenge---AmigoSecreto
+<h1 align="center"> É uma aplicação feita usando Java Script, HTML e CSS que permite aos usuários inserirem nomes de amigos, em uma lista, para em seguida realizar um sorteio aleatório e determinar quem é o "amigo secreto".</h1>
 
 Funcionalidades:
 
